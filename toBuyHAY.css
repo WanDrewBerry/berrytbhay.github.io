@@ -107,6 +107,7 @@ ul li.checked::before{
     margin-left: 1rem;
 }
 .list-div{
+    max-height:400px
     overflow: auto;
 }
 
