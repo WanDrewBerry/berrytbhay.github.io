@@ -152,4 +152,7 @@ ul li.checked::before{
     #inputBudget{
         margin-top: 8px;
     }
+    .container{
+        margin-top: 3em;
+    }
 }
